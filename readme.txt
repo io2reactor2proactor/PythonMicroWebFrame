@@ -6,3 +6,5 @@ git add filename
 git commit -m "commit"
 
 Git has a mutable index called stage.
+
+Git tracks changes.
