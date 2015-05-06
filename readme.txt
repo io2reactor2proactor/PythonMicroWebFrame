@@ -4,3 +4,5 @@ make Git is following:
 git init
 git add filename
 git commit -m "commit"
+
+Git is license is GPL
